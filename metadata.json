@@ -1,0 +1,7 @@
+{
+  "name": "PROJECT-01 Secure Core Platform",
+  "description": "Enterprise secure core platform with operational state machine, security center, logical architecture, PWA, and Android integration boundary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
